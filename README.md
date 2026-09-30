@@ -22,5 +22,5 @@ Rural citizens often fail to receive benefits from relevant government schemes d
 ## 🔧 Local Setup
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/gramsetu.git
+   git clone https://github.com/itzdeep2/GramSetu/
    cd gramsetu
